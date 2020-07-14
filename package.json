@@ -1,0 +1,15 @@
+{
+  "name": "modules-binding",
+  "version": "1.0.0",
+  "description": "https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code/tree/master/Chapter07",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
